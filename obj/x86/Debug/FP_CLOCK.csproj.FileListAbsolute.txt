@@ -1,0 +1,870 @@
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.Properties.Resources.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.Properties.Resources.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.Properties.Resources.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.Properties.Resources.resources
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+E:\ching\BR8220\OCX\TH SDK 4.4\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.Properties.Resources.resources
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+E:\ching\BR8220\OCX\TH SDK 4.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.Properties.Resources.resources
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+E:\ching\BR8220\OCX\TH SDK 8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+E:\ching\BR8220\OCX\TH_SDK_8.6\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_SDK_9.7\Terminal\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\Users\Administrator\Desktop\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2019桌面\TH-SDK\TH_SDK1912\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\Users\Administrator\Desktop\2019桌面\TH-SDK\TH_SDK1912\c# demo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\2019桌面\TH-SDK\TH_SDK1912\c# demo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\2019桌面\TH-SDK\TH_SDK1912\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\2019桌面\TH-SDK\TH_SDK1912\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\Users\Administrator\Desktop\2019桌面\TH-SDK\TH_SDK1912\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\TEMP\TH_c#_SDK_F661\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+C:\TEMP\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\TEMP\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\TEMP\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\TEMP\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\TEMP\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\TEMP\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c# demo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\TH_c#_SDK_WithSecond\TH_c#_SDK_WithSecond\c#demoF661New\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+D:\DEMO1\c#demoF661New\c#demoF661New\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+D:\DEMO1\c#demoF661New\c#demoF661New2011\c#demoF661New\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+E:\SDK2\THc#demo2012\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+E:\SDK2\THc#demo2012\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+E:\SDK2\THc#demo2012\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+E:\SDK2\THc#demo2012\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+E:\SDK2\THc#demo2012\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+E:\SDK2\THc#demo2012\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+E:\SDK2\THc#demo2012\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+E:\SDK2\THc#demo2012\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+F:\HP\2020其它\天美AI动态人脸\SDK\THc#demo2012\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+F:\HP\2020其它\天美AI动态人脸\SDK\THc#demo2012\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+F:\HP\2020其它\天美AI动态人脸\SDK\THc#demo2012\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+F:\HP\2020其它\天美AI动态人脸\SDK\THc#demo2012\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+F:\HP\2020其它\天美AI动态人脸\SDK\THc#demo2012\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+F:\HP\2020其它\天美AI动态人脸\SDK\THc#demo2012\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\DEMO\THc#demo2012\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DEMO\THc#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+I:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\TEMP\AIFacec#demo2101\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\TEMP\AIFacedemo2101\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\TEMP\AIFacedemo2101\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\TEMP\AIFacedemo2101\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\TEMP\AIFacedemo2101\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\TEMP\AIFacedemo2101\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\TEMP\AIFacedemo2101\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\TEMP\AIFacedemo2101\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\TEMP\AIFacedemo2101\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\TEMP\AIFacedemo2101\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\TEMP\AIFacedemo2101\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2102\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\DEMO\AIFacedemo2102\AIFacedemo2102\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\DEMO\AIFacedemo2102\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2109\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+E:\2020其它\天美AI动态人脸\SDK\2021SDKNEW\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\DEMO1\AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2109\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\testdemo\C#AIFacedemo2210\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\DEMO1\C#AIFacedemo2210\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO1\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+C:\DEMO\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\DEMO\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\DEMO\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\DEMO\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\DEMO\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\DEMO\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\DEMO\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\DEMO\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\DEMO\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\testdemo\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\testdemo\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\testdemo\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\testdemo\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\testdemo\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\testdemo\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\testdemo\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\testdemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\DEMO\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\Users\Administrator\Desktop\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\C#AIFacedemo\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.AssemblyReference.cache
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.HolidaySetting.resources
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.Properties.Resources.resources
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.cache
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.CoreCompileInputs.cache
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.CopyComplete
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\Users\Saman\Desktop\C#AIFacedemo\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
